@@ -6,7 +6,7 @@ UV 0 sampai 11 lebih, lengkap dengan kategorinya — Rendah, Sedang, Tinggi,
 Sangat Tinggi, atau Ekstrem — tampil di LCD 16x2.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/LdSjxymwpg8
 
 ## Komponen
 
